@@ -1,0 +1,4 @@
+F:\MyTeamProject\SocketHelper\SocketHelper\bin\Debug\SocketHelper.dll
+F:\MyTeamProject\SocketHelper\SocketHelper\bin\Debug\SocketHelper.pdb
+F:\MyTeamProject\SocketHelper\SocketHelper\obj\Debug\SocketHelper.dll
+F:\MyTeamProject\SocketHelper\SocketHelper\obj\Debug\SocketHelper.pdb

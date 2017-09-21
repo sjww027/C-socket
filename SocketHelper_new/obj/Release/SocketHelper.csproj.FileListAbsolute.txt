@@ -1,0 +1,13 @@
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\bin\Release\SocketHelper.dll
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\bin\Release\SocketHelper.pdb
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\obj\Release\SocketHelper.csprojResolveAssemblyReference.cache
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\obj\Release\SocketHelper.AxUdpClient.resources
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\obj\Release\SocketHelper.csproj.GenerateResource.Cache
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\obj\Release\SocketHelper.dll
+F:\C#开发\公司项目源代码\沙盘服务程序\SocketHelper\obj\Release\SocketHelper.pdb
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\bin\Release\SocketHelper.dll
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\bin\Release\SocketHelper.pdb
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\obj\Release\SocketHelper.AxUdpClient.resources
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\obj\Release\SocketHelper.csproj.GenerateResource.Cache
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\obj\Release\SocketHelper.dll
+G:\公司项目\项目源码\沙盘服务系统\沙盘服务程序4.16.09.06\SocketHelper\obj\Release\SocketHelper.pdb
